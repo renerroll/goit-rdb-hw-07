@@ -1,6 +1,4 @@
-# SQL Commands Overview
-
-This document explains a series of SQL commands used for querying and analyzing data from a database.
+# SQL Relation DB HW07
 
 ## 1. Write an SQL query that for the orders table from the date attribute includes day, month, and day. Display these three attributes next to the id attribute and the original date attribute (there are 5 attributes in total).
 
